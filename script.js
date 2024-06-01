@@ -27,13 +27,13 @@ const songDataBase = [
     imgSrc: "./img/dekha tenu.jpg",
   },
   {
-    songSrc: "./music/_soulmate.mp3",
+    songSrc: "./music/_Soulmate.mp3",
     title: "O Mahi ",
     artist: "Arijit Singh",
     imgSrc: "./img/o mahi.jpg",
   },
   {
-    songSrc: "./music/Gulabi sari .mp3",
+    songSrc: "./music/Gulabi Sari .mp3",
     title: "Gulabi sari",
     artist: "Inder arya",
     imgSrc: "./img/gulabi.jpg",
