@@ -27,13 +27,13 @@ const songDataBase = [
     imgSrc: "./img/dekha tenu.jpg",
   },
   {
-    songSrc: "./music/_soulmate.mp3",
+    songSrc: "./music/_Soulmate.mp3",
     title: "O Mahi ",
     artist: "Arijit Singh",
     imgSrc: "./img/o mahi.jpg",
   },
   {
-    songSrc: "./music/Gulabi sari .mp3",
+    songSrc: "./music/Gulabi Sari .mp3",
     title: "Gulabi sari",
     artist: "Inder arya",
     imgSrc: "./img/gulabi.jpg",
@@ -57,13 +57,13 @@ const songDataBase = [
     imgSrc: "./img/kho.jpg",
   },
   {
-    songSrc: "./music/_pyaar.mp3",
+    songSrc: "./music/_Pyaar.mp3",
     title: "Pyaar mei",
     artist: "Malvika Raaj",
     imgSrc: "./img/pyar me.jpg",
   },
   {
-    songSrc: "./music/mano.mp3",
+    songSrc: "./music/Mano.mp3",
     title: "Mano",
     artist: "Maher zain",
     imgSrc: "./img/Mano.jpg",
