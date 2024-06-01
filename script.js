@@ -57,16 +57,16 @@ const songDataBase = [
     imgSrc: "./img/kho.jpg",
   },
   {
-    songSrc: "./music/_pyaar.mp3",
+    songSrc: "./music/_Pyaar.mp3",
     title: "Pyaar mei",
     artist: "Malvika Raaj",
     imgSrc: "./img/pyar me.jpg",
   },
   {
-    songSrc: "./music/mano.mp3",
+    songSrc: "./music/Mano.mp3",
     title: "Mano",
     artist: "Maher zain",
-    imgSrc: "./img/Mano.jpg",
+    imgSrc: "./img/mano.jpg",
   },
   {
     songSrc: "./music/Mera.mp3",
